@@ -1,6 +1,4 @@
-Here's an enhanced version of your profile with improved formatting, additional icons, and a polished look while keeping the structure intact. I've added some visual flair using emoji icons, refined the layout for clarity, and ensured it aligns with a professional yet engaging GitHub README style. I've also incorporated the Devicon stylesheet you provided and used consistent icon styling.
 
----
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
