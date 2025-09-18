@@ -27,7 +27,7 @@ I'm on a mission to create technology solutions that connect the digital world w
 [![Gowshik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mysticaven&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mysticaven/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
+  <a href="https://github.com/mysticaven">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysticaven&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mysticaven"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mysticaven"/>
   </a>
@@ -43,11 +43,11 @@ I'm on a mission to create technology solutions that connect the digital world w
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python,,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,html,css,sass,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
