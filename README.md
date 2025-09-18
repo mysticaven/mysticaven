@@ -29,7 +29,7 @@ I'm on a mission to create technology solutions that connect the digital world w
 <div align="center">
   <a href="https://github.com/mysticaven">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysticaven&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mysticaven"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mysticaven"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mysticaven&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mysticaven"/>
   </a>
 </div>
 <p align="center">
