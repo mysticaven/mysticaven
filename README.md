@@ -1,6 +1,3 @@
-The issue with the LinkedIn icon not showing is likely due to the Devicon `linkedin-plain colored` class not rendering correctly in some environments or a potential mismatch in the Devicon stylesheet. To fix this, I'll use a direct SVG icon from Devicon's CDN for LinkedIn, ensuring consistent rendering across platforms like GitHub. I'll also verify that all other icons (X, Google) are correctly displayed and maintain the same styling for uniformity. Below is the updated README with the corrected LinkedIn icon and a few minor tweaks for consistency.
-
----
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
@@ -114,7 +111,7 @@ Got an exciting project or idea, especially in AI or full-stack development? Rea
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gowshik-ram-r/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:gowshikram2004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" height="40" alt="Email" />
