@@ -62,7 +62,7 @@ Here’s my tech arsenal, powered up with AI tools for maximum impact! 💻🤖
 <table align="center">
   <tr>
     <td style="font-weight: bold; padding-right: 15px; vertical-align: middle;">Backend 🖥️</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,dotnet,python,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,javascript,python,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite" /></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 15px; vertical-align: middle;">Frontend 🎨</td>
@@ -94,7 +94,7 @@ Here’s my tech arsenal, powered up with AI tools for maximum impact! 💻🤖
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 15px; vertical-align: middle;">Other Tools 🔧</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mqtt,grafana,bash" /></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 15px; vertical-align: middle;">Operating Systems 🖼️</td>
